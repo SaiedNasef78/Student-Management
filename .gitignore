@@ -1,18 +1,55 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
 
-# Other files and folders
-.settings/
+Saied Nasef:
+# Visual Studio
+.vs/
+.vscode/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Visual Studio generated files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Executable and compiled files
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+*.db
+*.idx
+*.cache
+*.exe
+*.dll
+*.pdb
+*.ilk
